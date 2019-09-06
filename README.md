@@ -1,0 +1,2 @@
+# BenchmarkMongoElementNameValidator
+Benchmark for CollectionElementNameValidator.IsValidElementName
